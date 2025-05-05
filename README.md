@@ -1,4 +1,5 @@
-﻿# AICS course final project - Object Detection and OCR with Faster-R-CNN and trOCR
+﻿# Object Detection and OCR of Traffic Signs with Faster-R CNN and trOCR
+Exploring Fine-Tuning with a Small Dataset
 
  Fine-tuning Faster-R CNN with small dataset:
 
